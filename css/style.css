@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #000;
+}
+nav .btn {
+    background-color: #000;
+}
+.section-one { 
+    background-color: #525252;
+}
+.section-button {
+    background-color: Coral;
+    color: #fff;
+}
+.game-section-one {
+    color: #fff;
+}
+.card-text {
+    color: #fff;
+}
+.first {
+    color: #fff;
+}
+footer {
+    background-color: #525252;
+}
+footer p {
+    color: #fff;
+}
+.footer-btn {
+    background-color: coral;
+    color: #fff;
+}
